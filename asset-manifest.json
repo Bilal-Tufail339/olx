@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/olx/static/css/main.923539e9.css",
+    "main.js": "/olx/static/js/main.59c93a34.js",
+    "static/js/453.4076dd57.chunk.js": "/olx/static/js/453.4076dd57.chunk.js",
+    "static/media/mobilepic1.webp": "/olx/static/media/mobilepic1.930ffc431805d587b4b7.webp",
+    "static/media/cars1.webp": "/olx/static/media/cars1.549b8dd49bfddc7b669a.webp",
+    "static/media/cars4.webp": "/olx/static/media/cars4.b04b33f0df70868f5257.webp",
+    "static/media/cars2.webp": "/olx/static/media/cars2.5e255a01734247a1e6a4.webp",
+    "static/media/mobilepic.webp": "/olx/static/media/mobilepic.e871491c4e2248fc9a91.webp",
+    "static/media/mobile3.webp": "/olx/static/media/mobile3.ce8e4fa77d36df0dae21.webp",
+    "static/media/mobile4.webp": "/olx/static/media/mobile4.b91665a0e9f87421cbc6.webp",
+    "static/media/iconSellBorder.svg": "/olx/static/media/iconSellBorder.c9444e265361a7c268ac.svg",
+    "index.html": "/olx/index.html",
+    "static/media/iconGrid.svg": "/olx/static/media/iconGrid.011e16bf79597fdfa8701098fe20dcfb.svg",
+    "static/media/iconList.svg": "/olx/static/media/iconList.422cd85032057854a0479e1819f2ecd8.svg",
+    "main.923539e9.css.map": "/olx/static/css/main.923539e9.css.map",
+    "main.59c93a34.js.map": "/olx/static/js/main.59c93a34.js.map",
+    "453.4076dd57.chunk.js.map": "/olx/static/js/453.4076dd57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.923539e9.css",
+    "static/js/main.59c93a34.js"
+  ]
+}
