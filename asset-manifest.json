@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/olx/static/css/main.923539e9.css",
-    "main.js": "/olx/static/js/main.59c93a34.js",
+    "main.js": "/olx/static/js/main.79e5c6c5.js",
     "static/js/453.4076dd57.chunk.js": "/olx/static/js/453.4076dd57.chunk.js",
     "static/media/mobilepic1.webp": "/olx/static/media/mobilepic1.930ffc431805d587b4b7.webp",
     "static/media/cars1.webp": "/olx/static/media/cars1.549b8dd49bfddc7b669a.webp",
@@ -15,11 +15,11 @@
     "static/media/iconGrid.svg": "/olx/static/media/iconGrid.011e16bf79597fdfa8701098fe20dcfb.svg",
     "static/media/iconList.svg": "/olx/static/media/iconList.422cd85032057854a0479e1819f2ecd8.svg",
     "main.923539e9.css.map": "/olx/static/css/main.923539e9.css.map",
-    "main.59c93a34.js.map": "/olx/static/js/main.59c93a34.js.map",
+    "main.79e5c6c5.js.map": "/olx/static/js/main.79e5c6c5.js.map",
     "453.4076dd57.chunk.js.map": "/olx/static/js/453.4076dd57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.923539e9.css",
-    "static/js/main.59c93a34.js"
+    "static/js/main.79e5c6c5.js"
   ]
 }
